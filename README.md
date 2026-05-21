@@ -5,15 +5,15 @@ A fun and interactive Role Playing Game built with JavaScript where players can 
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ⚔️ Turn-based combat system
-- 🧙 Character leveling and XP system
-- 💰 Gold and inventory management
-- 👾 Multiple enemies and battle stages
-- ❤️ Health and damage mechanics
-- 🎯 Interactive game controls
-- 📱 Responsive design
+-  Turn-based combat system
+-  character leveling and XP system
+-  Gold and inventory management
+-  Multiple enemies and battle stages
+-  Health and damage mechanics
+-  Interactive game controls
+-  Responsive design
 
 ---
 
@@ -23,14 +23,6 @@ A fun and interactive Role Playing Game built with JavaScript where players can 
 - CSS3
 - JavaScript (ES6)
 
----
-
-## 📸 Preview
-
-_Add screenshots or GIFs of your game here._
-
----
-
 ## 🎮 How to Play
 
 1. Start the game
@@ -38,13 +30,3 @@ _Add screenshots or GIFs of your game here._
 3. Buy weapons or health upgrades
 4. Level up your character
 5. Defeat stronger enemies to win
-
----
-
-## 📂 Project Structure
-
-```bash
-├── index.html
-├── style.css
-├── script.js
-└── assets
